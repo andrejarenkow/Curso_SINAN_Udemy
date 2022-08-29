@@ -1,2 +1,3 @@
-# Curso_SINAN_Udemy
-Repositório de dados para a extração e análise de bancos de dados da Saúde
+# Curso SINAN
+
+Este reposítório foi criado com a intenção de ajudar aqueles que desejam tratar dados presentes no Sistema de Notificação de Agravos brasileiro, o SINAN.
